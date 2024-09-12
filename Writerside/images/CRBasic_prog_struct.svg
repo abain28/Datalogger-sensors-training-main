@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( https://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="433"
+    height="739"
+    viewBox="0, 0, 433, 739"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_E0D0DC5C"/>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <rect
+          style="fill:#E0E0E0"
+          id="C20AB7DB"
+          x="0.5"
+          y="0.5"
+          width="162"
+          height="72"/>
+      <text
+          id="6C4EC8DB"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="5.5" y="19.5">Declare variables/constants e.g.</tspan>
+         <tspan x="5.5" y="40.5" font-family="Courier New" font-size="9" font-weight="normal">Public SW_RAD_Measured</tspan>
+         <tspan x="5.5" y="50.5" font-family="Courier New" font-size="9" font-weight="normal">Public LW_RAD_Measured</tspan>
+         <tspan x="5.5" y="60.5" font-family="Courier New" font-size="9" font-weight="normal">Public CGR4_TEMP_Measured</tspan>
+      </text>
+      <rect
+          style="fill:#D0D0D0"
+          id="8913FADB"
+          x="0.5"
+          y="108.5"
+          width="378"
+          height="90"/>
+      <text
+          id="A913FADB"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="5.5" y="124.5">Define data tables e.g.</tspan>
+         <tspan x="5.5" y="149.5" font-family="Courier New" font-size="9" font-weight="normal">DataTable(MetOneMinute,True,-1)</tspan>
+         <tspan x="5.5" y="159.5" font-family="Courier New" font-size="9" font-weight="normal">	</tspan>
+         <tspan x="41.5" y="159.5" font-family="Courier New" font-size="9" font-weight="normal">DataInterval(0,1,Min,10)</tspan>
+         <tspan x="5.5" y="169.5" font-family="Courier New" font-size="9" font-weight="normal">	</tspan>
+         <tspan x="41.5" y="169.5" font-family="Courier New" font-size="9" font-weight="normal">Average(1,PRESS+MSLP_CORR,IEEE4,False) : FieldNames (&quot;MSLP&quot;)</tspan>
+         <tspan x="5.5" y="179.5" font-family="Courier New" font-size="9" font-weight="normal">	</tspan>
+         <tspan x="41.5" y="179.5" font-family="Courier New" font-size="9" font-weight="normal">Sample(1,RH,FP2,False) : FieldNames (&quot;RH&quot;)</tspan>
+         <tspan x="5.5" y="189.5" font-family="Courier New" font-size="9" font-weight="normal">EndTable</tspan>
+      </text>
+      <rect
+          style="fill:#7FFFA0"
+          id="70C1D1FB"
+          x="0.5"
+          y="234.5"
+          width="432"
+          height="90"/>
+      <text
+          id="80C1D1FB"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="5.5" y="250.5">Define any subroutines and functions e.g.</tspan>
+         <tspan x="5.5" y="275.5" font-family="Courier New" font-size="9" font-weight="normal">Sub ResistanceToTemperature(MeasuredRes, ResultingTemp)</tspan>
+         <tspan x="5.5" y="285.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20;   MeasuredResInOhms = BridgeResistorValue * (1 - MeasuredRes )/ MeasuredRes&#x20;</tspan>
+         <tspan x="5.5" y="295.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20;   ResultingTemp = 1 / (Alpha + (Beta * LN(MeasuredResInOhms)) + (Gamma *&#x20;</tspan>
+         <tspan x="5.5" y="305.5" font-family="Courier New" font-size="9" font-weight="normal">	</tspan>
+         <tspan x="41.5" y="305.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20;         	</tspan>
+         <tspan x="113.5" y="305.5" font-family="Courier New" font-size="9" font-weight="normal">(LN(MeasuredResInOhms))^3)) - 273.15</tspan>
+         <tspan x="5.5" y="315.5" font-family="Courier New" font-size="9" font-weight="normal">EndSub</tspan>
+      </text>
+      <rect
+          style="fill:#7FCDFF"
+          id="F55BE10C"
+          x="0.5"
+          y="360.5"
+          width="270"
+          height="72"/>
+      <text
+          id="065BE10C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="5.5" y="375.5">Begin program - open any serial ports etc. e.g.</tspan>
+         <tspan x="5.5" y="400.5" font-family="Courier New" font-size="9" font-weight="normal">BeginProg</tspan>
+         <tspan x="5.5" y="424.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20; SerialOpen(CS125_PORT,CS125_BAUD,3,0,1000,0)</tspan>
+      </text>
+      <rect
+          style="fill:#C8BFFF"
+          id="39BDF02C"
+          x="0.5"
+          y="468.5"
+          width="342"
+          height="108"/>
+      <text
+          id="59BDF02C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="5.5" y="478.5">Main measurement Scan. e.g.</tspan>
+         <tspan x="5.5" y="503.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20; Scan(1,Sec,0,0)</tspan>
+         <tspan x="5.5" y="513.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20;    If TBR_Disable = 0 Then</tspan>
+         <tspan x="5.5" y="523.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20;        PulseCount(Rain_mm,1,P1,1,0,TBR_TIP_AMOUNT,0)</tspan>
+         <tspan x="5.5" y="533.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20;    EndIf</tspan>
+         <tspan x="5.5" y="553.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20;    CallTable RainTipTime</tspan>
+         <tspan x="5.5" y="573.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20; NextScan</tspan>
+      </text>
+      <rect
+          style="fill:#FFAF7F"
+          id="1DEA9A2C"
+          x="0.5"
+          y="612.5"
+          width="378"
+          height="126"/>
+      <text
+          id="2DEA9A2C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="5.5" y="631.5">Define any Slower Scan Intervals and then &apos;EndProg&apos; e.g.</tspan>
+         <tspan x="5.5" y="656.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20; SlowSequence</tspan>
+         <tspan x="5.5" y="666.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20; Scan(2,Sec,0,0)</tspan>
+         <tspan x="5.5" y="676.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20;    SerialInRecord(CS125_PORT,CS125Str,&amp;h02,0,&amp;h03,CS125_Bytes,00)</tspan>
+         <tspan x="5.5" y="686.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20;    CallTable Visibility</tspan>
+         <tspan x="5.5" y="706.5" font-family="Courier New" font-size="9" font-weight="normal">&#x20; NextScan</tspan>
+         <tspan x="5.5" y="726.5" font-family="Courier New" font-size="9" font-weight="normal">EndProg</tspan>
+      </text>
+      <polygon
+          style="fill:#D0D0D0"
+          id="DDA0D04C"
+          points="95.9,72.5 103.1,72.5 103.1,97.7 108.5,97.7 99.5,108.5 90.5,97.7 95.9,97.7"/>
+      <polygon
+          style="fill:#D0D0D0"
+          id="F603414C"
+          points="95.9,198.5 103.1,198.5 103.1,223.7 108.5,223.7 99.5,234.5 90.5,223.7 95.9,223.7"/>
+      <polygon
+          style="fill:#D0D0D0"
+          id="F008814C"
+          points="95.9,324.5 103.1,324.5 103.1,349.7 108.5,349.7 99.5,360.5 90.5,349.7 95.9,349.7"/>
+      <polygon
+          style="fill:#D0D0D0"
+          id="A46EC14C"
+          points="95.9,432.5 103.1,432.5 103.1,457.7 108.5,457.7 99.5,468.5 90.5,457.7 95.9,457.7"/>
+      <polygon
+          style="fill:#D0D0D0"
+          id="0967124C"
+          points="95.9,576.5 103.1,576.5 103.1,601.7 108.5,601.7 99.5,612.5 90.5,601.7 95.9,601.7"/>
+   </g>
+</svg>

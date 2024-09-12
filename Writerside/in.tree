@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="SurfaceNet, Dataloggers and Sensors" start-page="SurfaceNet.md">
+
+    <toc-element topic="SurfaceNet.md"/>
+    <toc-element topic="Sensors-overview.md"/>
+    <toc-element topic="Dataloggers.md">
+    <toc-element topic="Datalogger-support-applications.md"/>
+    <toc-element topic="Datalogger-programming-intro.md"/>
+
+
+
+]]></instance-profile>

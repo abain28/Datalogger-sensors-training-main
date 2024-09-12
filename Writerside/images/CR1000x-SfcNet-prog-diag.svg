@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( https://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="559.27557373"
+    height="805.889770508"
+    viewBox="0, 0, 559.27557373, 805.889770508"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_DBE34241">
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="2EA7EDAC_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="2EA7EDAC_end_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
+             d="M0,0 L-7.517540966287,2.736161146605 L-7.517540966287,-2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="8B7E74DC_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="8B7E74DC_start_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
+             d="M0,0 L7.517540966287,-2.736161146605 L7.517540966287,2.736161146605 z"/>
+      </marker>
+   </defs>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <rect
+          style="fill:none"
+          id="3489CB7C"
+          x="36"
+          y="18"
+          width="198"
+          height="18"/>
+      <text
+          id="58BFFB7C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="82.746" y="30">Program version / DEBUG</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="D2DA5D7C"
+          x="36"
+          y="54"
+          width="198"
+          height="18"/>
+      <text
+          id="8824ED7C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="83.313" y="66">MQTT Enable / QoS level </tspan>
+      </text>
+      <rect
+          style="fill:#BFE6FF"
+          id="75501F7C"
+          x="36"
+          y="90"
+          width="198"
+          height="19.5251820108"/>
+      <text
+          id="53A8F38C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="47.2455" y="102.762591005">Check</tspan>
+         <tspan font-weight="bold">&#x20;logger purpose via PakBus address</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="92410B8C"
+          x="36"
+          y="126"
+          width="198"
+          height="18"/>
+      <text
+          id="6F2E1B8C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="98.991" y="138">Modem constants</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="686A3C8C"
+          x="36"
+          y="144"
+          width="198"
+          height="18"/>
+      <text
+          id="EC6A5C8C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="126.333" y="156">NTP</tspan>
+      </text>
+      <rect
+          style="fill:#BFE6FF"
+          id="66FBFC8C"
+          x="36"
+          y="162"
+          width="198"
+          height="18"/>
+      <text
+          id="A5712D8C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="82.044" y="174">If</tspan>
+         <tspan font-style="normal">... unknown host config...</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="9813419C"
+          x="288"
+          y="162"
+          width="72"
+          height="18"/>
+      <text
+          id="C032619C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="301.914" y="174">BeginProg</tspan>
+         <tspan font-weight="normal">&#x20;</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="D558C79C"
+          x="396"
+          y="162"
+          width="54"
+          height="18"/>
+      <text
+          id="E558C79C"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="405.4815" y="174">Scan (1s)</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="AC7E22AC"
+          x="358.744644374"
+          y="202.744000654"
+          width="108"
+          height="36"/>
+      <text
+          id="858972AC"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="367.479144374" y="217.744000654">Switch on Modem and </tspan>
+         <tspan x="378.085644374" y="229.744000654">ethernet and flag</tspan>
+      </text>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="2EA7EDAC"
+          x1="234.440639975"
+          y1="171.47917219"
+          x2="287.13901737"
+          y2="171.541663643"/>
+      <line
+          style="fill:none;marker-start:url(#8B7E74DC_start_arrow);marker-end:url(#2EA7EDAC_end_arrow)"
+          id="8B7E74DC"
+          x1="234.160092008"
+          y1="296.944597972"
+          x2="268.246797276"
+          y2="297.012439155"/>
+      <line
+          style="fill:none;marker-start:url(#8B7E74DC_start_arrow);marker-end:url(#2EA7EDAC_end_arrow)"
+          id="0CF2DEA1"
+          x1="468"
+          y1="306.352023263"
+          x2="486.799870823"
+          y2="306"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="43AE0EFC"
+          x1="252"
+          y1="450"
+          x2="306"
+          y2="450"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="252E9B4A"
+          x1="252"
+          y1="414"
+          x2="306"
+          y2="396"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="DBB5CFAC"
+          x1="360.564226712"
+          y1="171.30341498"
+          x2="396.564226712"
+          y2="171.30341498"/>
+      <line
+          style="fill:none;marker-start:url(#8B7E74DC_start_arrow);marker-end:url(#2EA7EDAC_end_arrow)"
+          id="8C18F0BC"
+          x1="421.612179757"
+          y1="180.136700052"
+          x2="421.911661922"
+          y2="201.850526913"/>
+      <rect
+          style="fill:#BFE6FF"
+          id="63EA62BC"
+          x="36"
+          y="198"
+          width="216"
+          height="18"/>
+      <text
+          id="D6DBD4BC"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="41" y="210">Else.... </tspan>
+         <tspan font-weight="bold">Enable features based on logger purpose</tspan>
+      </text>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="64B787BC"
+          x1="126.255976589"
+          y1="35.7314407834"
+          x2="126.254024247"
+          y2="53.2388117526"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="5030F7BC"
+          x1="126.810441593"
+          y1="73.0368850249"
+          x2="126.808489251"
+          y2="90.5442559941"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="51F848BC"
+          x1="126.140788437"
+          y1="109.971286268"
+          x2="126.138836095"
+          y2="126.422161119"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="97AE09BC"
+          x1="127.206766931"
+          y1="180.977199089"
+          x2="127.204814589"
+          y2="197.42807394"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="958022CC"
+          x1="126"
+          y1="216"
+          x2="126"
+          y2="234"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="FB67FADC"
+          x1="126"
+          y1="270"
+          x2="126"
+          y2="288"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="CE8838A1"
+          x1="126"
+          y1="306"
+          x2="126"
+          y2="324"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="259D3BDC"
+          x1="126"
+          y1="378"
+          x2="126"
+          y2="396"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="A80B8EE1"
+          x1="126"
+          y1="468"
+          x2="126"
+          y2="486"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="6596BC4A"
+          x1="396"
+          y1="414"
+          x2="396"
+          y2="432"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="8BA1CEE1"
+          x1="126"
+          y1="594"
+          x2="126"
+          y2="612"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="5F721FE1"
+          x1="126"
+          y1="648"
+          x2="126"
+          y2="666"/>
+      <rect
+          style="fill:none"
+          id="E7861BBC"
+          x="36"
+          y="234"
+          width="198.315100897"
+          height="36"/>
+      <text
+          id="54EC6BBC"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="67.7565504485" y="243">Table Style (interval or parameter) </tspan>
+         <tspan x="98.2530504485" y="255">Assign Serial Ports </tspan>
+         <tspan x="99.0765504485" y="267">Special characters</tspan>
+      </text>
+      <rect
+          style="fill:#FFD7BF"
+          id="8DFE23CC"
+          x="36"
+          y="288"
+          width="198"
+          height="18"/>
+      <text
+          id="28F217CC"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="68.7375" y="300">ProgramSettings</tspan>
+         <tspan font-weight="normal">&#x20;- CONST table </tspan>
+      </text>
+      <rect
+          style="fill:#FFD7BF"
+          id="07D32ACC"
+          x="270"
+          y="252"
+          width="197.187825909"
+          height="90"/>
+      <text
+          id="5D736ACC"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="275" y="264">Sensor types </tspan>
+         <tspan x="275" y="276">Site Info (lat/long/alt/name) </tspan>
+         <tspan x="275" y="288">NTP Server </tspan>
+         <tspan x="275" y="300">Modem config </tspan>
+         <tspan x="275" y="312">CDM config </tspan>
+         <tspan x="275" y="324">Sensor settings </tspan>
+         <tspan x="275" y="336">MQTT publish intervals (default 60 sec)</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="24D6F6DC"
+          x="36"
+          y="324"
+          width="198"
+          height="54"/>
+      <text
+          id="C929D7DC"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="104.0805" y="342">CDM detection </tspan>
+         <tspan x="51.8985" y="354">Parse ATC runways from ProgramSettings </tspan>
+         <tspan x="69.903" y="366">Interim Rain table (totalise 1 sec)</tspan>
+      </text>
+      <rect
+          style="fill:#FFD7BF"
+          id="50576DEC"
+          x="18"
+          y="396"
+          width="234"
+          height="72"/>
+      <text
+          id="C925CDEC"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="79.164" y="411">Create tables (IoT interval)</tspan>
+         <tspan font-weight="normal"> </tspan>
+         <tspan x="90.495" y="423" font-weight="normal">Quarter second (wind) </tspan>
+         <tspan x="68.643" y="435" font-weight="normal">One second (Radiation, sun, rain) </tspan>
+         <tspan x="80.2305" y="447" font-weight="normal">Fifteen second (Temps, RH) </tspan>
+         <tspan x="36.558" y="459" font-weight="normal">Thirty second (BP, Snow, Cloud, PWX, Vis, Hygro)</tspan>
+      </text>
+      <rect
+          style="fill:#FFD7BF"
+          id="673707FC"
+          x="306"
+          y="378"
+          width="180"
+          height="36"/>
+      <text
+          id="B715C7FC"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="317.5785" y="393">Else.</tspan>
+         <tspan font-style="normal">.. </tspan>
+         <tspan font-weight="bold" font-style="normal">Create tables (Parameter style)</tspan>
+         <tspan font-style="normal"> </tspan>
+         <tspan x="365.5575" y="405" font-style="normal">Wind, Rain etc.</tspan>
+      </text>
+      <rect
+          style="fill:none"
+          id="3B238BA1"
+          x="486"
+          y="270"
+          width="54"
+          height="72"/>
+      <text
+          id="EF210CA1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="500.076" y="285">MQTT </tspan>
+         <tspan x="495.243" y="297">message </tspan>
+         <tspan x="503.7525" y="309">from </tspan>
+         <tspan x="495.9225" y="321">Network </tspan>
+         <tspan x="495.0765" y="333">Manager</tspan>
+      </text>
+      <rect
+          style="fill:#F7FFBF"
+          id="592A39C1"
+          x="18"
+          y="486"
+          width="234"
+          height="108"/>
+      <text
+          id="B1511D1A"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="97.497" y="501">sub - Lufft VentusX</tspan>
+         <tspan x="95.8545" y="513">sub - NTPTimeSync</tspan>
+         <tspan x="72.9045" y="525">function - EnforceSingleSpaces</tspan>
+         <tspan x="68.256" y="537">function - ApplyPT100Calibration</tspan>
+         <tspan x="88.632" y="549">sub - DetectSDMSIO1s</tspan>
+         <tspan x="76.158" y="561">sub - OpenSerialConnections</tspan>
+         <tspan x="82.809" y="573">CR1000KD - DisplayMenu</tspan>
+         <tspan x="76.995" y="585">function - Now (current DTG)</tspan>
+      </text>
+      <rect
+          style="fill:#BFE6FF"
+          id="FE509BC1"
+          x="18"
+          y="666"
+          width="234"
+          height="90"/>
+      <text
+          id="D551D62A"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="107.0235" y="678">NTPTimeSync</tspan>
+         <tspan x="103.4955" y="690">CDM Detection</tspan>
+         <tspan x="81.5715" y="702">Check UTC offset disabled</tspan>
+         <tspan x="98.5725" y="714">Switch on Modem</tspan>
+         <tspan x="98.55" y="726">Detect SDMSIO1s</tspan>
+         <tspan x="98.658" y="738">Parse Runway info</tspan>
+         <tspan x="79.2405" y="750">OpenSerialConnections (all)</tspan>
+      </text>
+      <rect
+          style="fill:#FF873F"
+          id="C8487CC1"
+          x="72"
+          y="612"
+          width="108"
+          height="36"/>
+      <text
+          id="26B8DCC1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="12"
+          font-weight="bold"
+          font-style="normal">
+         <tspan x="96.552" y="634">BeginProg</tspan>
+      </text>
+      <rect
+          style="fill:#F7FFBF"
+          id="773B7EC1"
+          x="378"
+          y="504"
+          width="144"
+          height="36"/>
+      <text
+          id="DA2B9EC1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="413.073" y="519">Main Scan </tspan>
+         <tspan font-weight="bold">250</tspan>
+         <tspan>&#x20;ms</tspan>
+         <tspan x="406.17" y="531">Rain, wind speed / dir</tspan>
+      </text>
+      <rect
+          style="fill:#F7FFBF"
+          id="35E87FC1"
+          x="378"
+          y="558"
+          width="144"
+          height="36"/>
+      <text
+          id="45E87FC1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="413.496" y="573">Slow Scan </tspan>
+         <tspan font-weight="bold">500</tspan>
+         <tspan>&#x20;ms</tspan>
+         <tspan x="430.3755" y="585">ATC SDM</tspan>
+      </text>
+      <rect
+          style="fill:#F7FFBF"
+          id="32DF31D1"
+          x="378"
+          y="612"
+          width="144"
+          height="36"/>
+      <text
+          id="42DF31D1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="410.832" y="627">Slow Scan </tspan>
+         <tspan font-weight="bold">1000</tspan>
+         <tspan>&#x20;ms</tspan>
+         <tspan x="411.1605" y="639">Radiation, sunshine</tspan>
+      </text>
+      <rect
+          style="fill:#F7FFBF"
+          id="CB1032D1"
+          x="378"
+          y="666"
+          width="144"
+          height="36"/>
+      <text
+          id="DB1032D1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="408.168" y="681">Slow Scan </tspan>
+         <tspan font-weight="bold">15000</tspan>
+         <tspan>&#x20;ms</tspan>
+         <tspan x="414.252" y="693">Temperatures, RH</tspan>
+      </text>
+      <rect
+          style="fill:#F7FFBF"
+          id="0C11C2D1"
+          x="378"
+          y="720"
+          width="144"
+          height="54"/>
+      <text
+          id="1C11C2D1"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="408.168" y="738">Slow Scan </tspan>
+         <tspan font-weight="bold">30000</tspan>
+         <tspan>&#x20;ms</tspan>
+         <tspan x="398.5875" y="750">Cloud, Pwx, vis, BP, snow, </tspan>
+         <tspan x="405.4005" y="762">thygan, housekeeping</tspan>
+      </text>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="D1C479D1"
+          x1="288"
+          y1="774"
+          x2="378"
+          y2="522"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="66115AD1"
+          x1="306"
+          y1="774"
+          x2="378"
+          y2="576"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="3F40DAD1"
+          x1="324"
+          y1="774"
+          x2="378"
+          y2="630"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="11764BD1"
+          x1="342"
+          y1="774"
+          x2="378"
+          y2="684"/>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="CB30BBD1"
+          x1="360"
+          y1="774"
+          x2="378"
+          y2="738"/>
+      <line
+          style="fill:none"
+          id="3FB9373A"
+          x1="144"
+          y1="756"
+          x2="144"
+          y2="774"/>
+      <line
+          style="fill:none"
+          id="6471A73A"
+          x1="144"
+          y1="774"
+          x2="360"
+          y2="774"/>
+      <rect
+          style="fill:#BFE6FF"
+          id="2C78474A"
+          x="306"
+          y="432"
+          width="180"
+          height="36"/>
+      <text
+          id="6638294A"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="10"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="340.435" y="446">Transmit MQTT message</tspan>
+         <tspan x="322.735" y="460">geoJSON - default every 60 secs</tspan>
+      </text>
+      <text
+          id="09B22E4A"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="18"
+          font-weight="bold"
+          font-style="normal">
+         <tspan text-decoration="underline" x="275" y="36">CR1000X - SurfaceNet</tspan>
+      </text>
+      <text
+          id="E8F3F45A"
+          style="stroke:none"
+          font-family="Avenir"
+          font-size="9"
+          font-weight="normal"
+          font-style="italic">
+         <tspan x="275" y="81">Main logger = 2/3</tspan>
+         <tspan x="275" y="93">Secondary logger = 4-14</tspan>
+         <tspan x="275" y="105">PRS = 22</tspan>
+         <tspan x="275" y="117">Unknown = 0</tspan>
+      </text>
+      <line
+          style="fill:none;marker-end:url(#2EA7EDAC_end_arrow)"
+          id="CB0E985A"
+          x1="234"
+          y1="108"
+          x2="270"
+          y2="108"/>
+      <rect
+          style="fill:none;stroke-dasharray:4,4"
+          id="1422836A"
+          x="270"
+          y="72"
+          width="108"
+          height="54"/>
+   </g>
+</svg>
